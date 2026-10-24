@@ -12,9 +12,13 @@ I turn unclear operational problems into deliverable programs and practical AI w
 
 I care about what a system helps people do, how its outputs are checked and whether it makes sense to operate.
 
-## Selected public project
+## Current work
 
-[tenx / 10xdev-cli](https://github.com/sivakoneti/10xdev-cli) — structured project context, workflow validation and orchestration for AI coding agents. Explore the source, documentation and tests.
+I use Firstmate to coordinate agent workers across projects and work on integrations that make AI tools useful in day-to-day workflows.
+
+A recent example: adding FastH3 through ComfyUI to my Bifrost MCP media-generation setup. Firstmate coordinated the change, with a supervisor model and Codex worker.
+
+Upstream projects: [Firstmate](https://github.com/kunchenguid/firstmate) · [FastH3 for ComfyUI](https://huggingface.co/FastVideo/FastH3-Omni-Comfy)
 
 ## Connect
 
